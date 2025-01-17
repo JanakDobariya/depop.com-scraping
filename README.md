@@ -26,21 +26,21 @@ This project demonstrates web scraping of product data from [Depop.com](https://
 
 ## Installation
 1. *Clone the repository*:
-   bash
+   ```
    git clone https://github.com/JanakDobariya/depop.com-scraping.git
    cd depop.com-scraping
-   
+   ```
 
 2. *Install dependencies*:
    Ensure you have Python installed, then run:
-   bash
+   ```
    pip install -r requirements.txt
-   
+   ```
 
 3. *Run the script*:
-   bash
+   ```
    python depop.py
-   
+   ```
 
 ## Usage
 - The script scrapes product data from the men's category on Depop.com.
